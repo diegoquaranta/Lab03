@@ -106,3 +106,4 @@ class DepositoStrumenti:
             raise Exception ("Prestito non presente")
 
         del self.prestiti[id_prestito]
+
